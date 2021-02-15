@@ -19,14 +19,13 @@ public class Multiplicación {
 	// contructor para poder inicializarlo
 	//
 	
-	//private double acumulador;
+private double acumulador;
 	
-	//public Division(double acumulador) {
-	//	super();
-	//	this.acumulador = acumulador;		
-	//}
-	
-	
+	public Multiplicación(double acumulador) {
+		super();
+		this.acumulador = acumulador;
+	}
+
 	/**
 	 * Contructor sin parametros de la clase
 	 */
